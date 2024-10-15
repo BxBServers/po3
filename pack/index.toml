@@ -11217,6 +11217,16 @@ hash = "26a1a2b40bd7c218325c3f1582b04f32e21d50b01122981e67a2953682e776a1"
 metafile = true
 
 [[files]]
+file = "mods/worldedit.pw.toml"
+hash = "e03d80460b43f8508648f0cc4ca20e1583066c183cc9674fc021c721db2678ef"
+metafile = true
+
+[[files]]
+file = "mods/worldeditcui-forge-edition-3.pw.toml"
+hash = "21ae039dea577f0ffac5977061b1ffc5e03a73d78f049937658a475947650a6f"
+metafile = true
+
+[[files]]
 file = "mods/xnet.pw.toml"
 hash = "50cf44513f7e4819aec2a6e5cc350d6665904a37ac10db0547dfbc9457b669c6"
 metafile = true
