@@ -10202,6 +10202,11 @@ hash = "239b3da4a13cdba884a500205728e786f9952d928f405c9ad128f30f55106d22"
 metafile = true
 
 [[files]]
+file = "mods/common-capabilities.pw.toml"
+hash = "99b24c15748577e8f08c7f8c3766b359e84b8ab5bc52a0f3c6bbe780611840f0"
+metafile = true
+
+[[files]]
 file = "mods/compact-machines.pw.toml"
 hash = "62fd06e68ef5a771bfbb490da497b19b5c8240a7ff94a2b2ec713a50e38bb58c"
 metafile = true
@@ -10209,6 +10214,11 @@ metafile = true
 [[files]]
 file = "mods/compacter.pw.toml"
 hash = "7025c5938f7c44c8a1976c1cb195260717ce675cfd561bafadddb482926279a8"
+metafile = true
+
+[[files]]
+file = "mods/configanytime.pw.toml"
+hash = "defd8d7b171bb90e9ae3cc60f8c5e863346f74f7c43d90fd2a1519cc9b0e7f5f"
 metafile = true
 
 [[files]]
@@ -10484,6 +10494,36 @@ metafile = true
 [[files]]
 file = "mods/instantunify.pw.toml"
 hash = "e57e1b77925c4f96b7f9e8efd1a04bf457697c175e47827e9abf3dfe5bd43484"
+metafile = true
+
+[[files]]
+file = "mods/integrated-crafting.pw.toml"
+hash = "a63422295977e75ad0e01cf2b93e55fe11404846019078cd83fa189e144cfe08"
+metafile = true
+
+[[files]]
+file = "mods/integrated-dynamics.pw.toml"
+hash = "69ad167a0fb6ab931bdc9bea6ed616acbb75037ee1da96634f4bf1f9eb2f79fa"
+metafile = true
+
+[[files]]
+file = "mods/integrated-nbt.pw.toml"
+hash = "884cb219426263349372c4ad5c5189547c743acb2254efe649547039b2e34d61"
+metafile = true
+
+[[files]]
+file = "mods/integrated-proxy.pw.toml"
+hash = "08c9038a1ae1214efe973d3272996fcc497a8d7444a6c73e19ae91f093bba67b"
+metafile = true
+
+[[files]]
+file = "mods/integrated-terminals.pw.toml"
+hash = "57d3c8454673aa1a23ed24e70e8b0272bf7c0ed19ce726d01296875cc8f9520a"
+metafile = true
+
+[[files]]
+file = "mods/integrated-tunnels.pw.toml"
+hash = "08319d704c3155a3d43c748ab448894e95377c27ff3879d8aa401102d8a4a2c1"
 metafile = true
 
 [[files]]
