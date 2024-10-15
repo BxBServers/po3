@@ -1,4 +1,4 @@
-name = "PO3"
+name = "Project Ozone 3 + Hysteria tweaks"
 author = "thecazadorsniper"
 version = "3.4.11F"
 pack-format = "packwiz:1.1.0"
@@ -6,7 +6,7 @@ pack-format = "packwiz:1.1.0"
 [index]
 file = "index.toml"
 hash-format = "sha256"
-hash = "b28f9308c32056e4e2e0b4c06dd807f4660140ed51b9a0a7d44dd17dd0c2d439"
+hash = "1d4ff6fbd6bd29fc6a69d20b2786699571849530e8d26368603dfc5b62972dc6"
 
 [versions]
 forge = "14.23.5.2860"

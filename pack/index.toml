@@ -7005,10 +7005,6 @@ file = "config/bhc/bhc-drops.json"
 hash = "7a6ee211860e15bc7978fb52d70dd95aae47fd8e603a7bea5e544044b361c11c"
 
 [[files]]
-file = "config/bhmenu.cfg"
-hash = "4ccab65bbf0739baf7552134c23726703d4fd455b26aa13bd655787ebe73a2f0"
-
-[[files]]
 file = "config/bibliocraft.cfg"
 hash = "1add56ec14d783beeb10f21f46c8543997f38d9cc1d12a2a3197710e613a293a"
 
@@ -8653,10 +8649,6 @@ file = "config/infinitylib.cfg"
 hash = "64e5bd1035d80bb8b3d74a6fc558746969ad7b6d7b75b034001a93511e1e0430"
 
 [[files]]
-file = "config/ingameinfoxml.cfg"
-hash = "54f0402934fff61ebd70d81534ab64238606697dca76282a0e7e5b62444b3099"
-
-[[files]]
 file = "config/instantunify.cfg"
 hash = "24d605ef52bbcefc8097a881924a42178896c518e46585fc380602466b75a765"
 
@@ -8667,18 +8659,6 @@ hash = "c4ff5da5ca15d52a56eb6a44c3f6c5be93bffd7bedc2b893b7b39d5cb70ea15f"
 [[files]]
 file = "config/ironchest.cfg"
 hash = "6069282a9cf2a7047073120d602c7f54e6b642b52be4329787e95af97246d2be"
-
-[[files]]
-file = "config/itemphysic-client.json"
-hash = "ea24c70c00202cf836bc9b27fd5361b9cf206a31e44de073078ddb422d2f4686"
-
-[[files]]
-file = "config/itemphysic.cfg"
-hash = "79eacfdd878e0b3700e03c73380ac64d56a4f75b9ba6f5f39a67471410cec334"
-
-[[files]]
-file = "config/itemphysic.json"
-hash = "211692fbd85c72b821583bdb4c4072edcfe7af63fcf8d995edb1233126242d19"
 
 [[files]]
 file = "config/jei/itemBlacklist.cfg"
@@ -9921,14 +9901,6 @@ file = "config/ynot.cfg"
 hash = "e74af7fd7705e63fd6be48d28dd5d0a9269460af2b6c4181b586105c80f790bd"
 
 [[files]]
-file = "mods-resourcepacks/audiodeath/sounds.json"
-hash = "d27f2664fca3e790cbadffd64c1d1950a4c8335cd79b920278073c9380f0a13d"
-
-[[files]]
-file = "mods-resourcepacks/audiodeath/sounds/deathsound.ogg"
-hash = "a4a1d51e3c3634c57cf2b7810f326f9907d771f241bebb0a0812e8503df2e9d7"
-
-[[files]]
 file = "mods-resourcepacks/extrautils2/lang/en_US.lang"
 hash = "f123c00585548726dfb6b13c1c9f53b67a11937707b9682234897d7a29edf580"
 
@@ -10035,11 +10007,6 @@ hash = "2f7a72333a93d5b896aa91be29c0142dcc1ee6947acf218c4ad882a6b985d57f"
 metafile = true
 
 [[files]]
-file = "mods/audio-death.pw.toml"
-hash = "eb183040bac9303bef8f804ed7290c26410f97f89a0f6e562d2f258073df8156"
-metafile = true
-
-[[files]]
 file = "mods/autoreglib.pw.toml"
 hash = "45b89fead492935701ce8092eb3920bce39d824629bd87458eae218aba41d258"
 metafile = true
@@ -10122,11 +10089,6 @@ metafile = true
 [[files]]
 file = "mods/biometweakercore.pw.toml"
 hash = "563bda337585d0ccbaa0429a0da48df4fae7ef9eeaf11b8d6ca3f55e558a156e"
-metafile = true
-
-[[files]]
-file = "mods/bisecthosting-server-integration-menu-forge.pw.toml"
-hash = "25cd7d38c7ab601b56338b5f1dbf2634479cdea2a12c06624419a3c9f342dcc7"
 metafile = true
 
 [[files]]
@@ -10335,11 +10297,6 @@ hash = "4c3384e6e01f042b9aad20a471728123aa39d97fd4a1d0b0914067488bf061a7"
 metafile = true
 
 [[files]]
-file = "mods/discordsuite.pw.toml"
-hash = "12c427f6ceadc858d0327943d364a94c9b896beb6128925ac4bfd4a3a6b21db9"
-metafile = true
-
-[[files]]
 file = "mods/draconic-evolution.pw.toml"
 hash = "ea5eb18a73607ffd04a198f654209855fb831abdcac646fe2411d77b0dea2f9e"
 metafile = true
@@ -10525,11 +10482,6 @@ hash = "049829767ce58c31a916f27dda0e368a8e0564ffad4c138db49ff72dfe17eb87"
 metafile = true
 
 [[files]]
-file = "mods/ingame-info-xml.pw.toml"
-hash = "44f8c8ec8537d281d633d900302e4757a52d003ed42c0874e115479ce88978ee"
-metafile = true
-
-[[files]]
 file = "mods/instantunify.pw.toml"
 hash = "e57e1b77925c4f96b7f9e8efd1a04bf457697c175e47827e9abf3dfe5bd43484"
 metafile = true
@@ -10547,11 +10499,6 @@ metafile = true
 [[files]]
 file = "mods/iron-chests.pw.toml"
 hash = "f5e51601becf4c9f8878530d40cd2ecf232e89e5d9fae6218959a15eee12417d"
-metafile = true
-
-[[files]]
-file = "mods/itemphysic.pw.toml"
-hash = "d6f23bf90dfb0856910097f872f76bfc3cd0bbb0616a8e2c444a18e2f1b51138"
 metafile = true
 
 [[files]]
@@ -11152,11 +11099,6 @@ metafile = true
 [[files]]
 file = "mods/tiny-progressions.pw.toml"
 hash = "f5b41a0e152341ea33f0aa6e036b7c2d1663fa9603ff170941affad97db61511"
-metafile = true
-
-[[files]]
-file = "mods/tipthescales.pw.toml"
-hash = "acbc0366bb6be6f40f17b345df3d16caf7f1fa4d469eb9f709fad140080fc234"
 metafile = true
 
 [[files]]
