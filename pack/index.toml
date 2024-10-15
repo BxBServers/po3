@@ -9510,7 +9510,7 @@ hash = "d1a51bbfa6037cdffcc8e113e7d9305e5acbc8f8460b93ee6e8c0f8c01e75c0f"
 
 [[files]]
 file = "config/packmode.cfg"
-hash = "fa93b1fddf5e62e231e70e71e99d42624447ea1414096b8299c8fec569cc3862"
+hash = "a157e9268daf35f764a0e1eeb42634c68b7ff024ad29f57aa9d137ed5632edbd"
 
 [[files]]
 file = "config/patchouli.cfg"
@@ -10719,6 +10719,11 @@ metafile = true
 [[files]]
 file = "mods/mputils.pw.toml"
 hash = "4180981efd1001682131f5d306e48b284a6d14f6a70d98546fe1be0701ab9eb8"
+metafile = true
+
+[[files]]
+file = "mods/mrcrayfish-furniture-mod-legacy.pw.toml"
+hash = "6f6a886d41eafbdf806741fea1d1efb74c4de1961621dac124f72b2e77f45266"
 metafile = true
 
 [[files]]
