@@ -1,0 +1,13 @@
+name = "PO3"
+author = "thecazadorsniper"
+version = "3.4.11F"
+pack-format = "packwiz:1.1.0"
+
+[index]
+file = "index.toml"
+hash-format = "sha256"
+hash = "b28f9308c32056e4e2e0b4c06dd807f4660140ed51b9a0a7d44dd17dd0c2d439"
+
+[versions]
+forge = "14.23.5.2860"
+minecraft = "1.12.2"
