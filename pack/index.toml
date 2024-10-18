@@ -10552,6 +10552,11 @@ hash = "dba81061f9ae2e5266b8eb31a5e4f61c1f5ddd2c421afa0d5b13c9cd9a159e81"
 metafile = true
 
 [[files]]
+file = "mods/just-enough-calculation.pw.toml"
+hash = "9659d8f844faa0c1c92e914d7969b6ac1ecf2b6a8155834f8bfebc4193c30d45"
+metafile = true
+
+[[files]]
 file = "mods/just-enough-energistics-jee.pw.toml"
 hash = "268c3eecd93e89e0afb4dbc4a5100042903f8efdff7c75b32ecceed7845d7151"
 metafile = true
