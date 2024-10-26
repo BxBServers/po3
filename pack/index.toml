@@ -8593,10 +8593,6 @@ file = "config/furnaceoverhaul.cfg"
 hash = "c6842147e66255bdf19fe2c86c0ff3229ec81db647a4e0b368c48c759b86b8e9"
 
 [[files]]
-file = "config/grue.cfg"
-hash = "9dfe499c4b24e4dc3455e666fd46244993216ed6c69d402d0ea84f095cd816a2"
-
-[[files]]
 file = "config/hammercore.cfg"
 hash = "aa3fc047efcccb2b57a145ddaad9662d466fde2593ce0003c3a6ce31bd974c5a"
 
@@ -10439,11 +10435,6 @@ metafile = true
 [[files]]
 file = "mods/galacticrafttweaker.pw.toml"
 hash = "1096a10f0beeddf1ba1ff2e09797260483291c313d0005a8c886713d2ef3d459"
-metafile = true
-
-[[files]]
-file = "mods/grue.pw.toml"
-hash = "62e07cc3a4e0360d395ac01973d63c3f5f143bd60f3e8deff949e4dbd1fa5022"
 metafile = true
 
 [[files]]
