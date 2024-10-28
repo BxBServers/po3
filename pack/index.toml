@@ -9429,6 +9429,10 @@ file = "config/nofog.cfg"
 hash = "9e206cba76b733aa3c4448181612f49eac711e93ebf1fb52e7663761ecea7fa6"
 
 [[files]]
+file = "config/nothirium.cfg"
+hash = "bd8a742bf6d3b80365b450e7674cc0edd6be5e140ca6ed896488d8f6ae3278ba"
+
+[[files]]
 file = "config/nuclearcraft.cfg"
 hash = "c2e228811c1e50f123dd18196d09cbc71b98c92c1dd7b077a58f6221c26719ae"
 
@@ -10792,6 +10796,11 @@ metafile = true
 [[files]]
 file = "mods/notenoughids.pw.toml"
 hash = "2b0fdda6a16cf58c3b1ec4e77bc7b6acb9c605d2ff6a9d502aa6df81069df92a"
+metafile = true
+
+[[files]]
+file = "mods/nothirium.pw.toml"
+hash = "d989889ad15e00afaa80373c425ab0b514bfb71388504be089518a1300d75aae"
 metafile = true
 
 [[files]]
