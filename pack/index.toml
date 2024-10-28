@@ -3073,6 +3073,22 @@ file = "config/Tiny Progressions/Tools & Weapons.cfg"
 hash = "98864ef255a658d0bf2b7d3172e0f497470e9ee48aafdbc6ed5cba0a85a390cd"
 
 [[files]]
+file = "config/Universal Tweaks - Bugfixes.cfg"
+hash = "dab84b5d20928201be8f77f91b29c385e0d9486ac2cf3653b2e1387ebc8d46c1"
+
+[[files]]
+file = "config/Universal Tweaks - General.cfg"
+hash = "4a68b49bf108303bf17d8a0c225091bd999dcff9c3b493778cc694df9e2c2452"
+
+[[files]]
+file = "config/Universal Tweaks - Mod Integration.cfg"
+hash = "9b9001dad2d8cecc55ee0e94086ebc0b76d100d82c7b1c7e36a09aef8f6b04d7"
+
+[[files]]
+file = "config/Universal Tweaks - Tweaks.cfg"
+hash = "0c8160994b063fa4c21f2834f0722ad28070c102ad9ada7626187d11ceda222b"
+
+[[files]]
 file = "config/Waystones.cfg"
 hash = "da8901b3a34c6b64668fa5ccccd169a29ba87e8fed06b557a8baa1561ffa309a"
 
@@ -6945,10 +6961,6 @@ file = "config/astralsorcery/treasure_shrine.cfg"
 hash = "6b07d912612fa348a3765283d9373a1a5b3459f2ac4721f56bdd0a0c0e8a4c94"
 
 [[files]]
-file = "config/attributefix.cfg"
-hash = "80d08f0ef97fb614d3ec1e5d7737cc92c8f7004328eec08ea758f416f5335cfc"
-
-[[files]]
 file = "config/avaritia.cfg"
 hash = "3dc0493175b028b3857ce21a4e879116dc41ff57eaae20923e2d8a104e5d2c85"
 
@@ -8557,14 +8569,6 @@ file = "config/farmingforblockheads.cfg"
 hash = "5faca4e241080da18806ea779fc3536583507199559bf2d6f39c140632ad053f"
 
 [[files]]
-file = "config/fastbench.cfg"
-hash = "ebdd2073e78495f0f44850537ae9a5f26a8b8648b824626676f6619ac7dc42ed"
-
-[[files]]
-file = "config/foamfix.cfg"
-hash = "68fa60222e2297f49d008090c412ae3fe365336b7c07eef0955690a6baf841d8"
-
-[[files]]
 file = "config/forge.cfg"
 hash = "303e85013e872be8abd78b4c62085693d441dd01bbcff85981e1aabfe3dede9d"
 
@@ -9801,10 +9805,6 @@ file = "config/thermalsolars.cfg"
 hash = "3ce490e4fa5d9698d5ac227b5d771345ae30a12d87be93f5ff36a5828f4d5461"
 
 [[files]]
-file = "config/toastcontrol.cfg"
-hash = "557e3111ef05172656cae100ab1cb7f87ab9dbdbc59240f7f9dd9b93fe604c06"
-
-[[files]]
 file = "config/tombstone.cfg"
 hash = "f9b7283211e0d36c05c2e34a8840488534c092d77f994da41fa0e1454316d563"
 
@@ -9835,6 +9835,10 @@ hash = "521e8d70aab1ddc5de3df5a94884cc1691ae6cd3a6f65c6b6969e2aba523fa2f"
 [[files]]
 file = "config/unidict/UniDict.cfg"
 hash = "3d22a363bf23082ee189861ea936ee8f5d3a3b30cb82ce9c55a28ace69c2d423"
+
+[[files]]
+file = "config/vintagefix.properties"
+hash = "028771cb79c37613e5712b6396d7bfb94c19db937b671ca3b512d3a21209ce4a"
 
 [[files]]
 file = "config/waila/theme/dark.json"
@@ -9959,6 +9963,11 @@ hash = "965be564aa6d4f69905817140576e58a42a69b2e6ffc881c800b8d8f790c77bb"
 metafile = true
 
 [[files]]
+file = "mods/alfheim-lighting-engine.pw.toml"
+hash = "38b628f90818b2e90a98f718b8841f02ae98516a56f821321857187a602e311f"
+metafile = true
+
+[[files]]
 file = "mods/apotheosis.pw.toml"
 hash = "cab514b6b6236a357fde4ef97e2f4ffefa039a4735c315a43558d111aa2fe799"
 metafile = true
@@ -9991,11 +10000,6 @@ metafile = true
 [[files]]
 file = "mods/astral-sorcery.pw.toml"
 hash = "82fbfe7ad86f3ef8a0085f86e1b23fb3ddd845fd55a2eb495a593306dd1a281f"
-metafile = true
-
-[[files]]
-file = "mods/attributefix.pw.toml"
-hash = "2f7a72333a93d5b896aa91be29c0142dcc1ee6947acf218c4ad882a6b985d57f"
 metafile = true
 
 [[files]]
@@ -10289,11 +10293,6 @@ hash = "69c3c017648cdadabf61d08d401a90da58a41487075e7937595547cb6adf3cbd"
 metafile = true
 
 [[files]]
-file = "mods/diet-hoppers.pw.toml"
-hash = "af4387be3111addd8967e303100556e7ae0703d0e15836f8539ccec678ad44fa"
-metafile = true
-
-[[files]]
 file = "mods/dimensional-edibles-nomifactory-edition.pw.toml"
 hash = "4c3384e6e01f042b9aad20a471728123aa39d97fd4a1d0b0914067488bf061a7"
 metafile = true
@@ -10391,21 +10390,6 @@ metafile = true
 [[files]]
 file = "mods/farming-for-blockheads.pw.toml"
 hash = "29485e844486f243f8d6b8b2428ee5b362295fde9d5ab00a6367d4402475c78b"
-metafile = true
-
-[[files]]
-file = "mods/fastworkbench.pw.toml"
-hash = "d856a3027bb9f9d54c0ea2e02e6150510eeebd240bbb240779cdf0c27607110b"
-metafile = true
-
-[[files]]
-file = "mods/fence-jumper.pw.toml"
-hash = "e5476cffd4ac3ed1bbde939cc41b84fa804a666b1758354eea333a83978a2e45"
-metafile = true
-
-[[files]]
-file = "mods/foamfix-optimization-mod.pw.toml"
-hash = "9ebf99a09414c38e4959b828266d83d3983366e1694d0bb901125a85121e97de"
 metafile = true
 
 [[files]]
@@ -10649,6 +10633,11 @@ hash = "92892386e51376cbe799f9441d2f309fa7364b40db3d2ce7dd3fb3af50e9c5d2"
 metafile = true
 
 [[files]]
+file = "mods/mixin-booter.pw.toml"
+hash = "105fc73e223d1a9ef35ec2b37aefabb2f1b95dea81d52f2147702771c9042a33"
+metafile = true
+
+[[files]]
 file = "mods/mjrlegendslib.pw.toml"
 hash = "f0254cdd6d5f1c170dfdd1fb91c92f38962f3a5b37c241aea562e57645c8677b"
 metafile = true
@@ -10864,11 +10853,6 @@ hash = "bf3ab3065a3d3cbf04b5632a6088c9db9381c54c2149c8713748dde1b5859472"
 metafile = true
 
 [[files]]
-file = "mods/phosphor-forge.pw.toml"
-hash = "900c33ef3ec1924d7557882e955063e30726a81f662e1443b7a3d3ff66a557d1"
-metafile = true
-
-[[files]]
 file = "mods/placebo.pw.toml"
 hash = "1ee3519800370b5985d5a544ff6a27af2ad59b9874f1aae63bf061d694e0ca45"
 metafile = true
@@ -10946,6 +10930,11 @@ metafile = true
 [[files]]
 file = "mods/reborncore.pw.toml"
 hash = "210ac01b61f9b387b1406c05b788d2dafae7c261756d814b27ba99400391865b"
+metafile = true
+
+[[files]]
+file = "mods/red-core.pw.toml"
+hash = "a6f25081409a7bb9f0a9832ab2d6591de43ebb1f3ed69f85fbc39927f595cd06"
 metafile = true
 
 [[files]]
@@ -11139,11 +11128,6 @@ hash = "f5b41a0e152341ea33f0aa6e036b7c2d1663fa9603ff170941affad97db61511"
 metafile = true
 
 [[files]]
-file = "mods/toast-control.pw.toml"
-hash = "c954e9326d0752cb6d742b2fb4810389ce84fb226fd3f654489fbc1e91f6f67e"
-metafile = true
-
-[[files]]
 file = "mods/translocators-1-8.pw.toml"
 hash = "e20c672b807a489407d4a11c6a0767f554d6ae5c97afb265388311611219bdbd"
 metafile = true
@@ -11161,6 +11145,16 @@ metafile = true
 [[files]]
 file = "mods/unidict.pw.toml"
 hash = "b7efcef0724d49de5e486cf957b8600c4df388a64575c7fd99d5a0a20499e22d"
+metafile = true
+
+[[files]]
+file = "mods/universal-tweaks.pw.toml"
+hash = "7db541563e5f3da249cad0778e6982d1555c3b0347aa26793832fa0ca61e8929"
+metafile = true
+
+[[files]]
+file = "mods/vintagefix.pw.toml"
+hash = "d4b265db96d54164964d11bddc7a1abc78777e56850b1d94683febb7d8009cf4"
 metafile = true
 
 [[files]]
