@@ -9773,6 +9773,10 @@ file = "config/stackie.cfg"
 hash = "3ff06ddef1a6088fe2e144193e87985e64290c234b24efc32cefdcbe8d1e50ca"
 
 [[files]]
+file = "config/stellar_core.cfg"
+hash = "2722b97ead434f4216d786b8d22cd552c2a22e7ef61d4b42757c546091f15ae7"
+
+[[files]]
 file = "config/storagedrawers.cfg"
 hash = "8252f88dfbd01356ab8b15196d7c8b26d2cb184c9bc4b2365d7b9306a9a406b7"
 
@@ -11071,6 +11075,11 @@ metafile = true
 [[files]]
 file = "mods/stacksize.pw.toml"
 hash = "4ce021b1e10d400320f444e1910798255d97da82076a186889a0c9146bcfe8c8"
+metafile = true
+
+[[files]]
+file = "mods/stellarcore.pw.toml"
+hash = "4c29332fc0432db86e010bb1ce881cc7f1d3a17e9a31ed63132c05e5b982ce9a"
 metafile = true
 
 [[files]]
